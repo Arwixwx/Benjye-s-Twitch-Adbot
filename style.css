@@ -1471,7 +1471,7 @@ ul#nav li ul a,
 }
 
 .video-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("img/background.png") no-repeat scroll center top / cover;
+    background: rgba(0, 0, 0, 0) url("img/background.png") no-repeat ;
 }
 
 .video-area .area-bg::after {
