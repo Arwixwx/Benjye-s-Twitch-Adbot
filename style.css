@@ -1664,11 +1664,11 @@ ul#nav li ul a,
     font-size: 12px;
     letter-spacing: 1px;
     margin-top: 20px;
-    padding: 0 0 10px 30px;
+    padding: 0 0 10px 10px;
     position: relative;
     text-align: center;
     text-transform: capitalize;
-    width: 210px;
+    width: 500px;
 }
 
 .download-button i {
